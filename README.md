@@ -1,2 +1,2 @@
-# lynda-training-learn-react-js-essential-activity-counter
-Activity Counter application - Lynda.com - React.js Essential Training
+# Activity Counter
+Developed on the base of [React.js Essential Training from Lynda.com](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html)
